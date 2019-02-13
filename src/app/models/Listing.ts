@@ -1,4 +1,3 @@
 export class Listing {
-    id:number
-    title:string
+    listings: Array<string>
 }
